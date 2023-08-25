@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola 👋, I'm Neeraj<br><br>🔭 I’m currently working on HTML, CSS, Js.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with React Projects<br>🌱 I’m currently learning React.<br>💬 Ask me about tech related stuff.<br>⚡ Fun fact I was a Mechanical Engineer.
+Hola 👋, I'm Neeraj<br><br>🔭 I’m currently working on React.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with React-Redux Projects<br>🌱 I’m currently learning Redux.<br>💬 Ask me about tech related stuff.<br>⚡ Fun fact I was a Mechanical Engineer.
 
 
 ## 🌐 Socials:
