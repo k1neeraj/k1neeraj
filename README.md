@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hola  👋, I'm Neeraj<br><br>🔭 I’m currently working on React.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with  React-Redux Projects.<br>🌱 I’m currently learning Redux.<br>💬 Ask me about tech related stuff.<br>⚡ Fun fact I was a Mechanical Engineer.
+# Neeraj Kumar's GitHub Profile 🚀
+
+Welcome to my GitHub playground! 👋 I'm Neeraj Kumar, a passionate full-stack developer who loves to turn ideas into reality through code. Feel free to explore my repositories, projects, and contributions. Don't forget to star your favorites! ⭐️
+
+
+# 💫 Quick Overview About Me:
+🔭 I’m currently working on React.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with  React-Redux Projects.<br>🌱 I’m currently learning Redux.<br>💬 Ask me about tech related stuff.<br>⚡ Fun fact I was a Mechanical Engineer.
 
 
 ## 🌐 Socials:
